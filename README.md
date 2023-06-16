@@ -20,8 +20,9 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas | Descrição |
-| ----- | --------- |
+| Aulas                            | Descrição                         |
+| -------------------------------- | --------------------------------- |
+| [aula-1-6](../../commit/214e189) | Introdução: Organizando a solução |
 
 ## Autor
 
